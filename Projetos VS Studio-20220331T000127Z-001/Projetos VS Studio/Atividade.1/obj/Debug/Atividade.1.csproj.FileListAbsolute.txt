@@ -1,0 +1,36 @@
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\bin\Debug\Atividade.1.exe.config
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\bin\Debug\Atividade.1.exe
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\bin\Debug\Atividade.1.pdb
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.csproj.AssemblyReference.cache
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\App.g.cs
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1_MarkupCompile.cache
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1_MarkupCompile.lref
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\MainWindow.baml
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.g.resources
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade._1.Properties.Resources.resources
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.csproj.GenerateResource.cache
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.csproj.CoreCompileInputs.cache
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.exe
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\Atividade.1.pdb
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\CalculadoraWindow.g.cs
+C:\Users\2020102011036-7\Documents\Projeto.DS\Atividade.1\Atividade.1\obj\Debug\CalculadoraWindow.baml
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\bin\Debug\Atividade.1.exe.config
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\bin\Debug\Atividade.1.exe
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\bin\Debug\Atividade.1.pdb
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.csproj.AssemblyReference.cache
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\CalculadoraWindow.g.cs
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\MainWindow.g.cs
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\App.g.cs
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1_MarkupCompile.cache
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1_MarkupCompile.lref
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\CalculadoraWindow.baml
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\MainWindow.baml
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.g.resources
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade._1.Properties.Resources.resources
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.csproj.GenerateResource.cache
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.csproj.CoreCompileInputs.cache
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.exe
+C:\Users\maisa\OneDrive\Documentos\Projetos VS Studio-20220331T000127Z-001\Projetos VS Studio\Atividade.1\obj\Debug\Atividade.1.pdb
